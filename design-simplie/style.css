@@ -1,0 +1,30 @@
+html,body{
+background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,92,253,1) 48%, rgba(252,176,69,1) 100%);
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+}
+.container{
+height: 100%;
+align-content: center;
+}
+.card{
+height: 380px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.3) !important;
+border-radius: 30px;
+}
+.social_media span{
+font-size: 80px;
+margin: auto;
+color: whitesmoke;
+align-content: center;
+}
+
+.social_media span:hover{
+color: goldenrod;
+cursor: pointer;
+}
